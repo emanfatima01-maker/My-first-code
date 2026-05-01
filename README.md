@@ -2,7 +2,8 @@
 
 **Student:** Eman Fatima  
 **Program:** AI 
-**superior University:** Superior University  
+
+**University:** Superior University  
 
 ## About This Repository
 This is my first GitHub repository.  
